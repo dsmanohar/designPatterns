@@ -1,0 +1,5 @@
+Chain of Responsibility is a behavioral design pattern that lets you pass requests along a chain of handlers.
+Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in the chain.
+ 
+example : middleware in web applications where each middleware is responsible of its own application like authorization,
+logging, caching the repeated requests, response compression, use cors etc.
