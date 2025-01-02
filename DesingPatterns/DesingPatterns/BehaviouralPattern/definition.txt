@@ -1,2 +1,2 @@
 Behavioral design patterns are used to describe how objects and classes interact, and how responsibilities are distributed between them. 
-They define algorithms and patterns for passing messages and connections between components
+They define algorithms and patterns for passing messages and connections between components 
